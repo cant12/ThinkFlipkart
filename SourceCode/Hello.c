@@ -4,5 +4,3 @@ dflk
 testing
 uyfy
 
-yoyo
-yoyo1
